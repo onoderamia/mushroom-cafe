@@ -8,6 +8,10 @@ Built as the final project for CS 417 (Virtual Reality, UIUC).
 
 Play it on [itch.io](https://bigspajeti.itch.io/cafe).
 
+## Demo
+
+[![Watch the demo](https://img.youtube.com/vi/yCk2GNGLfjY/0.jpg)](https://www.youtube.com/watch?v=yCk2GNGLfjY)
+
 ## Tech Stack
 
 Unity (URP), XR Interaction Toolkit, XR Hands, Meta Quest
