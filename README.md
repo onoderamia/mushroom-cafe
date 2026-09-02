@@ -1,12 +1,12 @@
 # Mushroom Cafe
 
-A cozy VR management game built in Unity for Meta Quest with full hand tracking, no controllers needed.
+A cozy VR management game built in Unity for Meta Quest.
+
+Run a forest cafe. Serve animal customers with mushrooms in exchange for leaves, and watch out for snake thieves trying to steal them. Hit them with a rock to scare them off.
 
 ## Demo (linked)
 
 [![Watch the demo](https://img.youtube.com/vi/yCk2GNGLfjY/0.jpg)](https://www.youtube.com/watch?v=yCk2GNGLfjY)
-
-Run a forest cafe. Serve animal customers with mushrooms in exchange for leaves, and watch out for snake thieves trying to steal them. Hit them with a rock to scare them off.
 
 Built as the final project for CS 417 (Virtual Reality, UIUC).
 
